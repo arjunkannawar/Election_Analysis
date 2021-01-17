@@ -34,7 +34,7 @@
 
 #### A Bird's eye view of the election results is provided here (https://github.com/arjunkannawar/Election_Analysis/blob/main/analysis/election_results.txt)
 
-## ELection Audit Summary
+## Election Audit Summary
 
 #### The code can be reused provided, we the follwoing conditions are satisfies.
 ##### DO not change the name of input file.

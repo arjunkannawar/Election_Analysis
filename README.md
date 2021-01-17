@@ -8,7 +8,7 @@
 
 ### How many votes were cast in this congressional election?
 
-#### * Total Votes: 369,711
+#### - Total Votes: 369,711
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
